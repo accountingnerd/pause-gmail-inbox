@@ -43,7 +43,8 @@ that you aren't afraid to "get under the hood" to make some adjustments.
        mailinator.com and from myfamilydomain.org to come through immediately:
        `from:(*) label:inbox -{from:mailinator.com from:myfamilydomain.org}`
        You may get a warning from google about not selecting the 'inbox' label. It is safe to
-       ignore that warning. On the filter, tick the box that says "Skip the Inbox (Archive it)" and also the "Apply the label: Inbox-Paused". That's what makes the magic happen.
+       ignore that warning. On the filter, tick the box that says "Skip the Inbox (Archive it)" and also the 
+       "Apply the label: Inbox-Paused". That's what makes the magic happen.
 10. Go enjoy a virgin piña colada or your tasty beverage of choice. New email won't show up in your
     inbox until the script triggers the unpause function.
 
@@ -54,6 +55,9 @@ find whatever you need.
 I'm writing this in January of 2023 as a personal project. If all goes well, I will never have to
 touch this thing again. If I update this project at all, it will be because something broke on 
 my side. 
+
+You should also be aware that I am not being particularly disciplined with git on this project, and I may `git push -f` 
+on the main branch occasionally.
 
 If you want new features, feel free to fork the project and add your own features.
 If you submit a pull request it will probably be ignored. Don't feel bad.
