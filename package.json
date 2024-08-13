@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Personal script for 'unpausing' a Gmail inbox.",
   "main": "Code.ts",
+  "scripts": {
+    "build": "tsc Code.ts"
+  },
   "license": "MIT",
   "private": false,
   "repository": {
