@@ -28,7 +28,7 @@ that you aren't afraid to "get under the hood" to make some adjustments.
    need two properties:
 
     * `UNPAUSE_ON_WEEKENDS`: Valid values are 'true' and 'false' (no quotes).
-    * `UPAUSE_TIME`: Use the 24 hour clock to pick a time. If you use AM/PM, and want to 
+    * `UNPAUSE_TIME`: Use the 24 hour clock to pick a time. If you use AM/PM, and want to 
       unpause at 4:30pm, then set the value to 16:30.
    
    NOTE: You had better format things correctly. This is running on your account, and if you mess
